@@ -1,0 +1,10 @@
+# Hidden files and folders
+.*
+!.gitignore
+!.gitattributes
+!.gitlab-ci.yml
+_*
+
+# Temporary files
+notebooks/*/**
+
