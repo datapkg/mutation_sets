@@ -1,0 +1,12 @@
+humsavar/humsavar.tsv filter=lfs diff=lfs merge=lfs -text
+clinvar/clinvar.tsv filter=lfs diff=lfs merge=lfs -text
+cosmic/cosmic.tsv filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/clinvar.MYD filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/clinvar.MYI filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/clinvar.frm filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/humsavar.MYD filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/humsavar.MYI filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/humsavar.frm filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/cosmic.MYD filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/cosmic.MYI filter=lfs diff=lfs merge=lfs -text
+./mysqld/mutation_sets/cosmic.frm filter=lfs diff=lfs merge=lfs -text
