@@ -2,7 +2,7 @@
 
 ## Mutation datasets
 
-- UniProt humsavar
+- Humsavar
 : Deleterious mutations and polymorphisms currated by UniProt. Contains mutations associated with different heritable diseases and cancers, as well as polymorphisms.
 
 - ClinVar
